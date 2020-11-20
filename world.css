@@ -1,0 +1,12 @@
+/* Add your own styles */
+header {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: lightblue;
+    padding: 10px;
+
+}
+
+main {
+    padding: 30px;
+}
